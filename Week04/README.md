@@ -1,1 +1,1 @@
-学习笔记
+**详见https://github.com/zhuangqf-sysu/HelloWorld**
